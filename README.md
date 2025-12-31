@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tayeb114&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Tayeb114?label=Followers&style=flat&color=0e75b6" alt="followers" />
+</p>
 
-<!--
-**Tayeb114/Tayeb114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a web developer focused on building complete, scalable web applications. My coding journey began with **C and C++**, which helped me understand the logic of programming, but my true interest lies in **Full Stack Development**.
+
+Currently, I am diving deep into the **MERN Stack**. I enjoy using **Node.js and Express** to build functional backends and manage data with **MongoDB**. On the client side, I love creating responsive and interactive interfaces using **React and Tailwind CSS**.
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,php,c,cpp,git,github,vscode,figma&perline=8&theme=dark" />
+</div>
+
+<br/>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tayeb114&theme=tokyonight&border_radius=5"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>Creating, Learning, and Growing — One Commit at a Time.</b>
+</p>
