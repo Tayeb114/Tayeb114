@@ -26,7 +26,7 @@ Currently, I am diving deep into the **MERN Stack**. I enjoy using **Node.js and
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tayeb114&theme=tokyonight&border_radius=5"/>
