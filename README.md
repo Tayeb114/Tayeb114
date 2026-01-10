@@ -8,11 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a web developer focused on building complete, scalable web applications. My coding journey began with **C and C++**, which helped me understand the logic of programming, but my true interest lies in **Full Stack Development**.
-
-Currently, I am diving deep into the **MERN Stack**. I enjoy using **Node.js and Express** to build functional backends and manage data with **MongoDB**. On the client side, I love creating responsive and interactive interfaces using **React and Tailwind CSS**.
+Building and learning through web projects.
 
 ---
 
